@@ -19,5 +19,5 @@ clickMe.addEventListener('click', function () {
     currentIndex = 0;
   }
 
-  console.log(colors[currentIndex]);
+  //console.log(colors[currentIndex]);
 });
